@@ -4,7 +4,7 @@ package com.example.administrator.work.model;
  * Created by Administrator on 2017/2/22.
  * 队列，先进先出，谁先来谁先走
  * 数据重复使用
- * 
+ * 1231
  */
 public class Queue {
     long []value;
